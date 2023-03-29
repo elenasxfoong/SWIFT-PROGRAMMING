@@ -1,3 +1,3 @@
 # SWIFT-PROGRAMMING
 
-Projects from the SwiftApp Elective and of my own creation. 
+Projects from the Swift App Development Elective and of my own creation. 
